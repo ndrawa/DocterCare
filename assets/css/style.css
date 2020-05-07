@@ -1,0 +1,40 @@
+table{
+	width: 100%;
+}
+
+nav {
+	width: 100%;
+}
+
+.card,.btn-sm{
+	margin-bottom: 5%;
+}
+
+body{
+	font-family: Verdana;
+	/*background-color: #caceba;*/
+	background: url('http://localhost/Pemrograman-Web/DoctorCare/assets/pic/background/BgUtama1.jpg') no-repeat center;
+}
+
+#pict{				/*pict yang pilihan buat jadwal, lihat dll di menu utama*/
+	width:307.2px;
+	height:205.2px;
+	border: 2px solid white;
+}
+
+.body{
+	min-height: 100vh;
+	background: url('http://localhost/Pemrograman-Web/DoctorCare/assets/pic/background/bg-1.jpg') center;
+}
+#LoginForm{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	background: url('http://localhost/Pemrograman-Web/DoctorCare/assets/pic/background/bg-1.jpg') center;
+	box-shadow:0 12px 15px 0 rgba(0,0,0,.24),0 17px 50px 0 rgba(0,0,0,.19);
+	border-radius: 10px;
+	padding: 30px;
+	text-align: center;
+	width: 512px;
+}
