@@ -1,5 +1,5 @@
 # Pemrograman Web DoctorCare
-create by :
+created by :
 	Hafidz Lazuardi,
 	Indra Wahyudi,
 	Muhammad Rifki Azhari,
