@@ -1,4 +1,3 @@
-test aja 
 [nama]-[nim]
 
 Muhammad Rifki Azhari
